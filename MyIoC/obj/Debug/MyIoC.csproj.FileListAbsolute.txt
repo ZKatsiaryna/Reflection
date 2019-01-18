@@ -1,0 +1,10 @@
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\MyIoC\bin\Debug\MyIoC.dll
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\MyIoC\bin\Debug\MyIoC.pdb
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\MyIoC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\MyIoC\obj\Debug\MyIoC.csprojAssemblyReference.cache
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\MyIoC\obj\Debug\MyIoC.csproj.CoreCompileInputs.cache
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\MyIoC\obj\Debug\MyIoC.csproj.CopyComplete
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\MyIoC\obj\Debug\MyIoC.dll
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\MyIoC\obj\Debug\MyIoC.pdb
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\MyIoC\bin\Debug\Fasterflect.dll
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\MyIoC\bin\Debug\Fasterflect.xml

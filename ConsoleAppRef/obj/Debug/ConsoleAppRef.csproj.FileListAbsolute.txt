@@ -1,0 +1,10 @@
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\ConsoleAppRef\bin\Debug\ConsoleAppRef.exe.config
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\ConsoleAppRef\bin\Debug\ConsoleAppRef.exe
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\ConsoleAppRef\bin\Debug\ConsoleAppRef.pdb
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\ConsoleAppRef\bin\Debug\MyIoC.dll
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\ConsoleAppRef\bin\Debug\MyIoC.pdb
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\ConsoleAppRef\obj\Debug\ConsoleAppRef.csprojAssemblyReference.cache
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\ConsoleAppRef\obj\Debug\ConsoleAppRef.csproj.CoreCompileInputs.cache
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\ConsoleAppRef\obj\Debug\ConsoleAppRef.csproj.CopyComplete
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\ConsoleAppRef\obj\Debug\ConsoleAppRef.exe
+C:\Users\Katsiaryna_Zakharyas\Desktop\TaskMyIoC\Task_MyIoC\ConsoleAppRef\obj\Debug\ConsoleAppRef.pdb
